@@ -8,7 +8,7 @@
     margin-left: 5rem;
     margin-right: 5rem;
     margin-top: 2rem;
-
+    font-size: 30px;
 
 
 }
@@ -16,4 +16,14 @@
 .icons {
     display: block;
     align-items: center;
+}
+
+
+
+.vv {
+    border-radius: 30px;
+}
+
+.vv p {
+    font-weight: 600;
 }
