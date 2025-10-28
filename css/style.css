@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.row {
+
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 2rem;
+
+
+
+}
+
+.icons {
+    display: block;
+    align-items: center;
+}
