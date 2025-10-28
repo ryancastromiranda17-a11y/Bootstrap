@@ -7,8 +7,8 @@
 
     margin-left: 5rem;
     margin-right: 5rem;
-    margin-top: 2rem;
-    font-size: 30px;
+
+    font-size: 20px;
 
 
 }
@@ -22,6 +22,8 @@
 
 .vv {
     border-radius: 30px;
+    width: 300px;
+
 }
 
 .vv p {
